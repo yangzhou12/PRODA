@@ -2,7 +2,7 @@
 Matlab source codes for the Probabilistic Rank-One Discriminant Analysis (PRODA) algorithm presented in the paper [Probabilistic Rank-One Discriminant Analysis via Collective and Individual Variation Modeling](https://ieeexplore.ieee.org/document/8481385).
 
 ## Usage
-Image denoising with PRODA on example images from the FERET dataset:
+Face recognition with PRODA on 2D images from the FERET dataset:
 ```
 Demo_PRODA.m
 ```
