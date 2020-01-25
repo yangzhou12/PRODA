@@ -8,13 +8,13 @@ Demo_PRODA.m
 ```
 
 ## Descriptions of the files in this repository  
- - DBpart.mat stores the indices for training (2 samples per class) /test data partition.
- - FERETC80A45.mat stores 320 faces (32x32) of 80 subjects (4 samples per class) from the FERET dataset.
- - Demo_PRODA.m provides example usage of PRODA for subspace learning and classification on 2D facial images.
- - PRODA.m implements the PRODA algorithm described in [paper](https://ieeexplore.ieee.org/document/8481385).
- - projPRODA.m projects 2D data into the subspace learned by PRODA.
- - sortProj.m sorts features by their Fisher scores in descending order.
- - logdet.m computes the logarithm of determinant of a matrix.
+ - *DBpart.mat* stores the indices for training (2 samples per class) /test data partition.
+ - *FERETC80A45.mat* stores 320 faces (32x32) of 80 subjects (4 samples per class) from the FERET dataset.
+ - *Demo_PRODA.m* provides example usage of PRODA for subspace learning and classification on 2D facial images.
+ - *PRODA.m* implements the PRODA algorithm described in [paper](https://ieeexplore.ieee.org/document/8481385).
+ - *projPRODA.m* projects 2D data into the subspace learned by PRODA.
+ - *sortProj.m* sorts features by their Fisher scores in descending order.
+ - *logdet.m* computes the logarithm of determinant of a matrix.
 
 ## Requirement
 [Tensor toolbox v2.6](http://www.tensortoolbox.org/).
