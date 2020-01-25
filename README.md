@@ -23,7 +23,7 @@ Demo_PRODA.m
 If you find our codes helpful, please consider cite the following [paper](https://ieeexplore.ieee.org/document/8481385):
 ```
 @article{
-    zhou2019PRODA,
+    zhou2020PRODA,
     title={Probabilistic Rank-One Discriminant Analysis via Collective and Individual Variation Modeling},
     author={Yang Zhou and Yiu-ming Cheung},
     journal={IEEE Transactions on Cybernetics},
