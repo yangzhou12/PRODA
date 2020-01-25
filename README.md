@@ -8,7 +8,7 @@ Demo_PRODA.m
 ```
 
 ## Descriptions of the files in this repository  
- - *DBpart.mat* stores the indices for training (2 samples per class) /test data partition.
+ - *DBpart.mat* stores the indices for training (2 samples per class)/test data partition.
  - *FERETC80A45.mat* stores 320 faces (32x32) of 80 subjects (4 samples per class) from the FERET dataset.
  - *Demo_PRODA.m* provides example usage of PRODA for subspace learning and classification on 2D facial images.
  - *PRODA.m* implements the PRODA algorithm described in the [paper](https://ieeexplore.ieee.org/document/8481385).
